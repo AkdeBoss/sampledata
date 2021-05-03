@@ -4,5 +4,7 @@ name:"Ak",
 last_mood:"happy",
   display_picture_url:"https://picsum.photos/200/200",
   health_status:"on-regime",
-  companion:"Monsieur chien"
+    companion:"Monsieur chien",
+  default_avatar:1,
+  
 }
